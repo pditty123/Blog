@@ -1,0 +1,3 @@
+HTML (structure or foundation), CSS (style), Javascript
+
+Absolute vs relative path. http: hyper text transfer protocol. (points to the internet).
